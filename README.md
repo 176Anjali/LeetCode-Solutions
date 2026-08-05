@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/176Anjali/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/176Anjali/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/176Anjali/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0485-max-consecutive-ones](https://github.com/176Anjali/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0912-sort-an-array](https://github.com/176Anjali/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 | [1470-shuffle-the-array](https://github.com/176Anjali/LeetCode-Solutions/tree/master/1470-shuffle-the-array) |
@@ -19,6 +20,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/176Anjali/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0912-sort-an-array](https://github.com/176Anjali/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 ## Sorting
 |  |
@@ -59,6 +61,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/176Anjali/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/176Anjali/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 ## Stack
 |  |
 | ------- |
