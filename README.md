@@ -21,6 +21,7 @@
 | [1929-concatenation-of-array](https://github.com/176Anjali/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/176Anjali/LeetCode-Solutions/tree/master/2395-find-subarrays-with-equal-sum) |
 | [3731-find-missing-elements](https://github.com/176Anjali/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
+| [3951-minimum-energy-to-maintain-brightness](https://github.com/176Anjali/LeetCode-Solutions/tree/master/3951-minimum-energy-to-maintain-brightness) |
 | [3952-maximum-total-value-of-covered-indices](https://github.com/176Anjali/LeetCode-Solutions/tree/master/3952-maximum-total-value-of-covered-indices) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/176Anjali/LeetCode-Solutions/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 | [3971-maximum-total-value](https://github.com/176Anjali/LeetCode-Solutions/tree/master/3971-maximum-total-value) |
@@ -39,6 +40,7 @@
 | [0242-valid-anagram](https://github.com/176Anjali/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0912-sort-an-array](https://github.com/176Anjali/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 | [3731-find-missing-elements](https://github.com/176Anjali/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
+| [3951-minimum-energy-to-maintain-brightness](https://github.com/176Anjali/LeetCode-Solutions/tree/master/3951-minimum-energy-to-maintain-brightness) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
