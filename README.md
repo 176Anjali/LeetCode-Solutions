@@ -90,6 +90,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/176Anjali/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/176Anjali/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+| [0509-fibonacci-number](https://github.com/176Anjali/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/176Anjali/LeetCode-Solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 | [3952-maximum-total-value-of-covered-indices](https://github.com/176Anjali/LeetCode-Solutions/tree/master/3952-maximum-total-value-of-covered-indices) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/176Anjali/LeetCode-Solutions/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
@@ -107,6 +108,7 @@
 | [0009-palindrome-number](https://github.com/176Anjali/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/176Anjali/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/176Anjali/LeetCode-Solutions/tree/master/0189-rotate-array) |
+| [0509-fibonacci-number](https://github.com/176Anjali/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [3945-digit-frequency-score](https://github.com/176Anjali/LeetCode-Solutions/tree/master/3945-digit-frequency-score) |
 | [3968-maximum-manhattan-distance-after-all-moves](https://github.com/176Anjali/LeetCode-Solutions/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 | [3971-maximum-total-value](https://github.com/176Anjali/LeetCode-Solutions/tree/master/3971-maximum-total-value) |
@@ -171,4 +173,12 @@
 |  |
 | ------- |
 | [3948-lexicographically-maximum-mex-array](https://github.com/176Anjali/LeetCode-Solutions/tree/master/3948-lexicographically-maximum-mex-array) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/176Anjali/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/176Anjali/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
