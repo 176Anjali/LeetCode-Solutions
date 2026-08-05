@@ -21,6 +21,7 @@
 | [1929-concatenation-of-array](https://github.com/176Anjali/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/176Anjali/LeetCode-Solutions/tree/master/2395-find-subarrays-with-equal-sum) |
 | [3731-find-missing-elements](https://github.com/176Anjali/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/176Anjali/LeetCode-Solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 | [3948-lexicographically-maximum-mex-array](https://github.com/176Anjali/LeetCode-Solutions/tree/master/3948-lexicographically-maximum-mex-array) |
 | [3951-minimum-energy-to-maintain-brightness](https://github.com/176Anjali/LeetCode-Solutions/tree/master/3951-minimum-energy-to-maintain-brightness) |
 | [3952-maximum-total-value-of-covered-indices](https://github.com/176Anjali/LeetCode-Solutions/tree/master/3952-maximum-total-value-of-covered-indices) |
@@ -88,6 +89,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/176Anjali/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/176Anjali/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/176Anjali/LeetCode-Solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 | [3952-maximum-total-value-of-covered-indices](https://github.com/176Anjali/LeetCode-Solutions/tree/master/3952-maximum-total-value-of-covered-indices) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/176Anjali/LeetCode-Solutions/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Stack
@@ -133,6 +135,7 @@
 ## Greedy
 |  |
 | ------- |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/176Anjali/LeetCode-Solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 | [3948-lexicographically-maximum-mex-array](https://github.com/176Anjali/LeetCode-Solutions/tree/master/3948-lexicographically-maximum-mex-array) |
 | [3952-maximum-total-value-of-covered-indices](https://github.com/176Anjali/LeetCode-Solutions/tree/master/3952-maximum-total-value-of-covered-indices) |
 | [3971-maximum-total-value](https://github.com/176Anjali/LeetCode-Solutions/tree/master/3971-maximum-total-value) |
