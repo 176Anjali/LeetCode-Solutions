@@ -78,6 +78,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/176Anjali/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/176Anjali/LeetCode-Solutions/tree/master/0189-rotate-array) |
 ## Binary Search
 |  |
