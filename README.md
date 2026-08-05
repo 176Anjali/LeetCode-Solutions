@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/176Anjali/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0485-max-consecutive-ones](https://github.com/176Anjali/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0912-sort-an-array](https://github.com/176Anjali/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 | [1470-shuffle-the-array](https://github.com/176Anjali/LeetCode-Solutions/tree/master/1470-shuffle-the-array) |
@@ -46,4 +47,20 @@
 |  |
 | ------- |
 | [3731-find-missing-elements](https://github.com/176Anjali/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
+## Two Pointers
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/176Anjali/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/176Anjali/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/176Anjali/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/176Anjali/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
