@@ -21,6 +21,7 @@
 | [1929-concatenation-of-array](https://github.com/176Anjali/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/176Anjali/LeetCode-Solutions/tree/master/2395-find-subarrays-with-equal-sum) |
 | [3731-find-missing-elements](https://github.com/176Anjali/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
+| [3971-maximum-total-value](https://github.com/176Anjali/LeetCode-Solutions/tree/master/3971-maximum-total-value) |
 ## Simulation
 |  |
 | ------- |
@@ -92,11 +93,13 @@
 | [0009-palindrome-number](https://github.com/176Anjali/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/176Anjali/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/176Anjali/LeetCode-Solutions/tree/master/0189-rotate-array) |
+| [3971-maximum-total-value](https://github.com/176Anjali/LeetCode-Solutions/tree/master/3971-maximum-total-value) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/176Anjali/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/176Anjali/LeetCode-Solutions/tree/master/0704-binary-search) |
+| [3971-maximum-total-value](https://github.com/176Anjali/LeetCode-Solutions/tree/master/3971-maximum-total-value) |
 ## String
 |  |
 | ------- |
@@ -108,4 +111,8 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/176Anjali/LeetCode-Solutions/tree/master/0136-single-number) |
+## Greedy
+|  |
+| ------- |
+| [3971-maximum-total-value](https://github.com/176Anjali/LeetCode-Solutions/tree/master/3971-maximum-total-value) |
 <!---LeetCode Topics End-->
