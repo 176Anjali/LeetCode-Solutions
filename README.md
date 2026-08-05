@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/176Anjali/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/176Anjali/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/176Anjali/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+| [0189-rotate-array](https://github.com/176Anjali/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0485-max-consecutive-ones](https://github.com/176Anjali/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0912-sort-an-array](https://github.com/176Anjali/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 | [1470-shuffle-the-array](https://github.com/176Anjali/LeetCode-Solutions/tree/master/1470-shuffle-the-array) |
@@ -57,6 +58,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/176Anjali/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0189-rotate-array](https://github.com/176Anjali/LeetCode-Solutions/tree/master/0189-rotate-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -70,4 +72,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/176Anjali/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/176Anjali/LeetCode-Solutions/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
