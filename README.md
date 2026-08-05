@@ -21,6 +21,7 @@
 | [1929-concatenation-of-array](https://github.com/176Anjali/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/176Anjali/LeetCode-Solutions/tree/master/2395-find-subarrays-with-equal-sum) |
 | [3731-find-missing-elements](https://github.com/176Anjali/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
+| [3952-maximum-total-value-of-covered-indices](https://github.com/176Anjali/LeetCode-Solutions/tree/master/3952-maximum-total-value-of-covered-indices) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/176Anjali/LeetCode-Solutions/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 | [3971-maximum-total-value](https://github.com/176Anjali/LeetCode-Solutions/tree/master/3971-maximum-total-value) |
 ## Simulation
@@ -83,6 +84,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/176Anjali/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/176Anjali/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+| [3952-maximum-total-value-of-covered-indices](https://github.com/176Anjali/LeetCode-Solutions/tree/master/3952-maximum-total-value-of-covered-indices) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/176Anjali/LeetCode-Solutions/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Stack
 |  |
@@ -113,6 +115,7 @@
 | [0125-valid-palindrome](https://github.com/176Anjali/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/176Anjali/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/176Anjali/LeetCode-Solutions/tree/master/0344-reverse-string) |
+| [3952-maximum-total-value-of-covered-indices](https://github.com/176Anjali/LeetCode-Solutions/tree/master/3952-maximum-total-value-of-covered-indices) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/176Anjali/LeetCode-Solutions/tree/master/3955-valid-binary-strings-with-cost-limit) |
 | [3968-maximum-manhattan-distance-after-all-moves](https://github.com/176Anjali/LeetCode-Solutions/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/176Anjali/LeetCode-Solutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
@@ -125,6 +128,7 @@
 ## Greedy
 |  |
 | ------- |
+| [3952-maximum-total-value-of-covered-indices](https://github.com/176Anjali/LeetCode-Solutions/tree/master/3952-maximum-total-value-of-covered-indices) |
 | [3971-maximum-total-value](https://github.com/176Anjali/LeetCode-Solutions/tree/master/3971-maximum-total-value) |
 ## Graph Theory
 |  |
