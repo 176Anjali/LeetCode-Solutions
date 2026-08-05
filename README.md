@@ -72,6 +72,7 @@
 | [0242-valid-anagram](https://github.com/176Anjali/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/176Anjali/LeetCode-Solutions/tree/master/2395-find-subarrays-with-equal-sum) |
 | [3731-find-missing-elements](https://github.com/176Anjali/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
+| [3945-digit-frequency-score](https://github.com/176Anjali/LeetCode-Solutions/tree/master/3945-digit-frequency-score) |
 | [3948-lexicographically-maximum-mex-array](https://github.com/176Anjali/LeetCode-Solutions/tree/master/3948-lexicographically-maximum-mex-array) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/176Anjali/LeetCode-Solutions/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Two Pointers
@@ -106,6 +107,7 @@
 | [0009-palindrome-number](https://github.com/176Anjali/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/176Anjali/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/176Anjali/LeetCode-Solutions/tree/master/0189-rotate-array) |
+| [3945-digit-frequency-score](https://github.com/176Anjali/LeetCode-Solutions/tree/master/3945-digit-frequency-score) |
 | [3968-maximum-manhattan-distance-after-all-moves](https://github.com/176Anjali/LeetCode-Solutions/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 | [3971-maximum-total-value](https://github.com/176Anjali/LeetCode-Solutions/tree/master/3971-maximum-total-value) |
 ## Binary Search
