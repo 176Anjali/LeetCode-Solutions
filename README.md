@@ -21,6 +21,7 @@
 | [1929-concatenation-of-array](https://github.com/176Anjali/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/176Anjali/LeetCode-Solutions/tree/master/2395-find-subarrays-with-equal-sum) |
 | [3731-find-missing-elements](https://github.com/176Anjali/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/176Anjali/LeetCode-Solutions/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 | [3971-maximum-total-value](https://github.com/176Anjali/LeetCode-Solutions/tree/master/3971-maximum-total-value) |
 ## Simulation
 |  |
@@ -65,6 +66,7 @@
 | [0242-valid-anagram](https://github.com/176Anjali/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/176Anjali/LeetCode-Solutions/tree/master/2395-find-subarrays-with-equal-sum) |
 | [3731-find-missing-elements](https://github.com/176Anjali/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/176Anjali/LeetCode-Solutions/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -125,4 +127,16 @@
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/176Anjali/LeetCode-Solutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/176Anjali/LeetCode-Solutions/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
+## Enumeration
+|  |
+| ------- |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/176Anjali/LeetCode-Solutions/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/176Anjali/LeetCode-Solutions/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 <!---LeetCode Topics End-->
