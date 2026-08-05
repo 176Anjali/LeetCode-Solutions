@@ -6,5 +6,5 @@ class Solution(object):
         """
         if n==0 or n==1:
             return n
-        for i in range(n):
+        else:
             return self.fib(n-1)+self.fib(n-2)
