@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/176Anjali/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/176Anjali/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/176Anjali/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/176Anjali/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/176Anjali/LeetCode-Solutions/tree/master/0066-plus-one) |
@@ -87,6 +88,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/176Anjali/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/176Anjali/LeetCode-Solutions/tree/master/0704-binary-search) |
 ## String
 |  |
