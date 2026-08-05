@@ -112,12 +112,14 @@
 | [0125-valid-palindrome](https://github.com/176Anjali/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/176Anjali/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/176Anjali/LeetCode-Solutions/tree/master/0344-reverse-string) |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/176Anjali/LeetCode-Solutions/tree/master/3955-valid-binary-strings-with-cost-limit) |
 | [3968-maximum-manhattan-distance-after-all-moves](https://github.com/176Anjali/LeetCode-Solutions/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/176Anjali/LeetCode-Solutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/176Anjali/LeetCode-Solutions/tree/master/0136-single-number) |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/176Anjali/LeetCode-Solutions/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Greedy
 |  |
 | ------- |
@@ -137,9 +139,14 @@
 ## Enumeration
 |  |
 | ------- |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/176Anjali/LeetCode-Solutions/tree/master/3955-valid-binary-strings-with-cost-limit) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/176Anjali/LeetCode-Solutions/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Prefix Sum
 |  |
 | ------- |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/176Anjali/LeetCode-Solutions/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
+## Backtracking
+|  |
+| ------- |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/176Anjali/LeetCode-Solutions/tree/master/3955-valid-binary-strings-with-cost-limit) |
 <!---LeetCode Topics End-->
