@@ -111,6 +111,7 @@
 | [0189-rotate-array](https://github.com/176Anjali/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/176Anjali/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/176Anjali/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
+| [0779-k-th-symbol-in-grammar](https://github.com/176Anjali/LeetCode-Solutions/tree/master/0779-k-th-symbol-in-grammar) |
 | [3945-digit-frequency-score](https://github.com/176Anjali/LeetCode-Solutions/tree/master/3945-digit-frequency-score) |
 | [3968-maximum-manhattan-distance-after-all-moves](https://github.com/176Anjali/LeetCode-Solutions/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 | [3971-maximum-total-value](https://github.com/176Anjali/LeetCode-Solutions/tree/master/3971-maximum-total-value) |
@@ -136,6 +137,7 @@
 | ------- |
 | [0136-single-number](https://github.com/176Anjali/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/176Anjali/LeetCode-Solutions/tree/master/0231-power-of-two) |
+| [0779-k-th-symbol-in-grammar](https://github.com/176Anjali/LeetCode-Solutions/tree/master/0779-k-th-symbol-in-grammar) |
 | [3950-exactly-one-consecutive-set-bits-pair](https://github.com/176Anjali/LeetCode-Solutions/tree/master/3950-exactly-one-consecutive-set-bits-pair) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/176Anjali/LeetCode-Solutions/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/176Anjali/LeetCode-Solutions/tree/master/3955-valid-binary-strings-with-cost-limit) |
@@ -182,6 +184,7 @@
 | [0050-powx-n](https://github.com/176Anjali/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/176Anjali/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/176Anjali/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
+| [0779-k-th-symbol-in-grammar](https://github.com/176Anjali/LeetCode-Solutions/tree/master/0779-k-th-symbol-in-grammar) |
 ## Memoization
 |  |
 | ------- |
