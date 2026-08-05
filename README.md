@@ -83,6 +83,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/176Anjali/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/176Anjali/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/176Anjali/LeetCode-Solutions/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Stack
 |  |
 | ------- |
@@ -119,6 +120,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/176Anjali/LeetCode-Solutions/tree/master/0136-single-number) |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/176Anjali/LeetCode-Solutions/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/176Anjali/LeetCode-Solutions/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Greedy
 |  |
@@ -139,6 +141,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/176Anjali/LeetCode-Solutions/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/176Anjali/LeetCode-Solutions/tree/master/3955-valid-binary-strings-with-cost-limit) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/176Anjali/LeetCode-Solutions/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Prefix Sum
