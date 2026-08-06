@@ -18,6 +18,7 @@
 | [0645-set-mismatch](https://github.com/176Anjali/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/176Anjali/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/176Anjali/LeetCode-Solutions/tree/master/0912-sort-an-array) |
+| [0946-validate-stack-sequences](https://github.com/176Anjali/LeetCode-Solutions/tree/master/0946-validate-stack-sequences) |
 | [1470-shuffle-the-array](https://github.com/176Anjali/LeetCode-Solutions/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/176Anjali/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/176Anjali/LeetCode-Solutions/tree/master/2395-find-subarrays-with-equal-sum) |
@@ -31,6 +32,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0946-validate-stack-sequences](https://github.com/176Anjali/LeetCode-Solutions/tree/master/0946-validate-stack-sequences) |
 | [1929-concatenation-of-array](https://github.com/176Anjali/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 ## Divide and Conquer
 |  |
@@ -102,6 +104,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/176Anjali/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/176Anjali/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0946-validate-stack-sequences](https://github.com/176Anjali/LeetCode-Solutions/tree/master/0946-validate-stack-sequences) |
 ## Monotonic Stack
 |  |
 | ------- |
