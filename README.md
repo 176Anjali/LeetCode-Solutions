@@ -13,6 +13,7 @@
 | [0066-plus-one](https://github.com/176Anjali/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/176Anjali/LeetCode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0136-single-number](https://github.com/176Anjali/LeetCode-Solutions/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/176Anjali/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/176Anjali/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0485-max-consecutive-ones](https://github.com/176Anjali/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/176Anjali/LeetCode-Solutions/tree/master/0645-set-mismatch) |
@@ -104,6 +105,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/176Anjali/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/176Anjali/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/176Anjali/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0946-validate-stack-sequences](https://github.com/176Anjali/LeetCode-Solutions/tree/master/0946-validate-stack-sequences) |
 ## Monotonic Stack
 |  |
@@ -115,6 +117,7 @@
 | [0009-palindrome-number](https://github.com/176Anjali/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/176Anjali/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/176Anjali/LeetCode-Solutions/tree/master/0066-plus-one) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/176Anjali/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/176Anjali/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/176Anjali/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/176Anjali/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
