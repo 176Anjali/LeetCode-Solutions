@@ -15,6 +15,7 @@
 | [0136-single-number](https://github.com/176Anjali/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/176Anjali/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0485-max-consecutive-ones](https://github.com/176Anjali/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
+| [0645-set-mismatch](https://github.com/176Anjali/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/176Anjali/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/176Anjali/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 | [1470-shuffle-the-array](https://github.com/176Anjali/LeetCode-Solutions/tree/master/1470-shuffle-the-array) |
@@ -40,6 +41,7 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/176Anjali/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [0645-set-mismatch](https://github.com/176Anjali/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0912-sort-an-array](https://github.com/176Anjali/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 | [3731-find-missing-elements](https://github.com/176Anjali/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 | [3951-minimum-energy-to-maintain-brightness](https://github.com/176Anjali/LeetCode-Solutions/tree/master/3951-minimum-energy-to-maintain-brightness) |
@@ -70,6 +72,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/176Anjali/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/176Anjali/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [0645-set-mismatch](https://github.com/176Anjali/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/176Anjali/LeetCode-Solutions/tree/master/2395-find-subarrays-with-equal-sum) |
 | [3731-find-missing-elements](https://github.com/176Anjali/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 | [3945-digit-frequency-score](https://github.com/176Anjali/LeetCode-Solutions/tree/master/3945-digit-frequency-score) |
@@ -139,6 +142,7 @@
 | ------- |
 | [0136-single-number](https://github.com/176Anjali/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/176Anjali/LeetCode-Solutions/tree/master/0231-power-of-two) |
+| [0645-set-mismatch](https://github.com/176Anjali/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0779-k-th-symbol-in-grammar](https://github.com/176Anjali/LeetCode-Solutions/tree/master/0779-k-th-symbol-in-grammar) |
 | [3950-exactly-one-consecutive-set-bits-pair](https://github.com/176Anjali/LeetCode-Solutions/tree/master/3950-exactly-one-consecutive-set-bits-pair) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/176Anjali/LeetCode-Solutions/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
