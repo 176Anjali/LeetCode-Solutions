@@ -116,6 +116,7 @@
 | [0231-power-of-two](https://github.com/176Anjali/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/176Anjali/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/176Anjali/LeetCode-Solutions/tree/master/0779-k-th-symbol-in-grammar) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/176Anjali/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3945-digit-frequency-score](https://github.com/176Anjali/LeetCode-Solutions/tree/master/3945-digit-frequency-score) |
 | [3968-maximum-manhattan-distance-after-all-moves](https://github.com/176Anjali/LeetCode-Solutions/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 | [3971-maximum-total-value](https://github.com/176Anjali/LeetCode-Solutions/tree/master/3971-maximum-total-value) |
@@ -169,6 +170,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/176Anjali/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/176Anjali/LeetCode-Solutions/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/176Anjali/LeetCode-Solutions/tree/master/3955-valid-binary-strings-with-cost-limit) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/176Anjali/LeetCode-Solutions/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
