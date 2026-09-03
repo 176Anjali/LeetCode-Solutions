@@ -24,6 +24,7 @@
 | [1929-concatenation-of-array](https://github.com/176Anjali/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/176Anjali/LeetCode-Solutions/tree/master/2395-find-subarrays-with-equal-sum) |
 | [3731-find-missing-elements](https://github.com/176Anjali/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
+| [3875-construct-uniform-parity-array-i](https://github.com/176Anjali/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/176Anjali/LeetCode-Solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 | [3948-lexicographically-maximum-mex-array](https://github.com/176Anjali/LeetCode-Solutions/tree/master/3948-lexicographically-maximum-mex-array) |
 | [3951-minimum-energy-to-maintain-brightness](https://github.com/176Anjali/LeetCode-Solutions/tree/master/3951-minimum-energy-to-maintain-brightness) |
@@ -123,6 +124,7 @@
 | [0509-fibonacci-number](https://github.com/176Anjali/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/176Anjali/LeetCode-Solutions/tree/master/0779-k-th-symbol-in-grammar) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/176Anjali/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3875-construct-uniform-parity-array-i](https://github.com/176Anjali/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3945-digit-frequency-score](https://github.com/176Anjali/LeetCode-Solutions/tree/master/3945-digit-frequency-score) |
 | [3968-maximum-manhattan-distance-after-all-moves](https://github.com/176Anjali/LeetCode-Solutions/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 | [3971-maximum-total-value](https://github.com/176Anjali/LeetCode-Solutions/tree/master/3971-maximum-total-value) |
